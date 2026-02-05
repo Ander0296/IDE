@@ -53,7 +53,9 @@ return {
       },
     },
   },
-
+icons = {
+            group = " ", -- Ícono moderno de grupo (requiere Nerd Font)
+        },
   keys = {
     {
       "<leader>?",
